@@ -23,6 +23,7 @@ print that final list
 ## Step 6:
 call the function with function name
 ## Program:
+```
 #Program to circulate N values.
 #Developed by: Chandrasekar S
 #RegisterNumber: 212222230025
@@ -31,7 +32,7 @@ def circulate():
     n=int(input())
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
-
+```
 ## Output:
 ![image](https://github.com/ChandrasekarS22008273/Circulate-the-values-of-N-variables/assets/119643845/c307e96f-7855-4607-b858-49c2c53ad8a0)
 
